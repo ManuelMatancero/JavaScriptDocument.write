@@ -1,0 +1,53 @@
+
+aside {
+    width: 30%;
+    height: 250px;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+    border: dashed 2px #000;
+  }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 98.5%;
+    height: 20px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    border: dashed 2px #000; 
+}
+
+section{
+  width: 60%;
+  height: 350px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border: dashed 2px #000; 
+}
+section p {
+  font-size: 20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+header{
+  border: dashed 2px #000; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+aside p {
+  font-size: 20px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left: 20px;
+}
+
